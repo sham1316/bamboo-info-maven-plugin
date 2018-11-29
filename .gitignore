@@ -1,0 +1,20 @@
+*.class
+*.tmp
+*~
+
+# intellij
+.idea
+*.iml
+*.ipr
+*.iws
+
+#eclipse
+.classpath
+.project
+.settings/
+bin/
+
+out
+target
+testing.properties
+

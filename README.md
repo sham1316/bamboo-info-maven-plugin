@@ -1,0 +1,1 @@
+"# bamboo-info-maven-plugin" 
